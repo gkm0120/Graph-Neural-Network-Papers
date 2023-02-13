@@ -1,0 +1,16 @@
+# Classification by Attention: Scene Graph Classification with Prior Knowledge
+
+```
+@inproceedings{icp_aaai21,
+title = {Classification by Attention: Scene Graph Classification with Prior Knowledge},
+author = {Sahand Sharifzadeh and Sina Moayed Baharlou and Volker Tresp},
+booktitle = {Proceedings of the Thirty-Fifth Conference on Association for the Advancement of Artificial Intelligence (AAAI)},
+pages = {5025--5033},
+year = {2021},
+}
+```
+
+links
+- [arXiv](https://arxiv.org/abs/2011.10084)
+- [aaai](https://www.aaai.org/AAAI21Papers/AAAI-7686.SharifzadehS.pdf)
+- [AAAI](https://ojs.aaai.org/index.php/AAAI/article/view/16636)

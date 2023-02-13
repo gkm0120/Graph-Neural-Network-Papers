@@ -115,7 +115,15 @@
 1. **Bridging the Gap between Spatial and Spectral Domains: A Survey on Graph Neural Networks.** arxiv 2020. [paper](https://arxiv.org/abs/2002.11867)
 
     *Zhiqian Chen, Fanglan Chen, Lei Zhang, Taoran Ji, Kaiqun Fu, Liang Zhao, Feng Chen, Chang-Tien Lu.*
-   
+    
+1. **Explainability in Graph Neural Networks: A Taxonomic Survey.** arxiv 2020. [paper](https://arxiv.org/abs/2012.15445)
+
+     *Hao Yuan, Haiyang Yu, Shurui Gui, Shuiwang Ji.*
+
+1. **Self-Supervised Learning of Graph Neural Networks: A unified view.** TPAMI 2022. [paper](https://ieeexplore.ieee.org/abstract/document/9764632)
+
+     *Yaochen Xie, Zhao Xu, Jingtun Zhang, Zhangyang Wang, Shuiwang Ji.*
+
 
 
 ## [模型](#content)   
@@ -574,6 +582,10 @@
 1. **Subgraph Neural Networks.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/5bca8566db79f3788be9efd96c9ed70d-Abstract.html)
 
     *Emily Alsentzer, Samuel Finlayson, Michelle Li, Marinka Zitnik.*
+    
+1. **Dynamic Graph Convolutional Networks Using the Tensor M-Product.** SDM 2021. [paper](https://doi.org/10.1137/1.9781611976700.82)
+
+     *Osman Asif Malik, Shashanka Ubaru, Lior Horesh, Misha E. Kilmer, Haim Avron*
 
 ### [池化方法](#content)
 1. **An End-to-End Deep Learning Architecture for Graph Classification.** AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17146/16755)
@@ -704,6 +716,10 @@
 1. **On the Equivalence between Positional Node Embeddings and Structural Graph Representations.** ICLR 2020. [paper](https://openreview.net/pdf?id=SJxzFySKwH)
 
 	*Balasubramaniam Srinivasan, Bruno Ribeiro.*
+	
+1. **Can Graph Neural Networks Count Substructures?** NeurIPS 2020. [paper](https://arxiv.org/pdf/2002.04025.pdf)
+
+     *Zhengdao Chen, Lei Chen, Soledad Villar, Joan Bruna.*
 
 ### [效率](#content)
 1. **Stochastic Training of Graph Convolutional Networks with Variance Reduction.** ICML 2018. [paper](http://www.scipaper.net/uploadfile/2018/0716/20180716100330880.pdf)
@@ -741,6 +757,10 @@
 1. **Scalable Graph Convolutional Network Based Link Prediction on a Distributed Graph Database Server.** IEEE CLOUD 2020. [paper](https://github.com/miyurud/miyurud.github.io/blob/master/papers/2020/IEEE_CLOUD_2020_JasmineGraph-web.pdf) [code](https://github.com/miyurud/jasminegraph)
 
     *Anuradha Karunarathna, Dinika Senarath, Shalika Madhushanki, Chinthaka Weerakkody, Miyuru Dayarathna, Sanath Jayasena, Toyotaro Suzumura.*
+    
+1. **Memory Efficient Graph Convolutional Networkbased Distributed Link Prediction.** IEEE Big Data 2020. [paper](https://raw.githubusercontent.com/miyurud/miyurud.github.io/master/papers/2020/IEEE_BigData_Workshop_2020_JasmineGraph_web.pdf) [code](https://github.com/miyurud/jasminegraph)
+
+    *Damitha Senevirathne, Isuru Wijesiri, Suchitha Dehigaspitiya, Miyuru Dayarathna, Sanath Jayasena, and Toyotaro Suzumura.*
 
 
 ## [应用](#content)
@@ -1711,6 +1731,10 @@
 1. **Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs.** ICLR 2020. [paper](https://openreview.net/pdf?id=rkxDoJBYPB)
 
 	*Aditya Paliwal, Felix Gimeno, Vinod Nair, Yujia Li, Miles Lubin, Pushmeet Kohli, Oriol Vinyals.*
+	
+1. **Reinforced Genetic Algorithm Learning for Optimizing Computation Graphs.** ICLR 2020. [paper](https://openreview.net/pdf?id=rkxDoJBYPB)
+
+     *Aditya Paliwal, Felix Gimeno, Vinod Nair, Yujia Li, Miles Lubin, Pushmeet Kohli, Oriol Vinyals.*
 
 ### [交通网络](#content)
 
@@ -1815,6 +1839,10 @@
 1. **Graph Meta Learning via Local Subgraphs.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/412604be30f701b1b1e3124c252065e6-Abstract.html)
 
     *Kexin Huang, Marinka Zitnik.*
+    
+1. **Graph Meta Learning via Local Subgraphs.** NeurIPS 2020. [paper](https://papers.nips.cc/paper/2020/hash/412604be30f701b1b1e3124c252065e6-Abstract.html)
+
+     *Kexin Huang, Marinka Zitnik.*
 
 ### [项目表示](#content)
 
