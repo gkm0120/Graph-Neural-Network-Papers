@@ -1,9 +1,21 @@
 # Related Workshops
 
+
+- ## 2024
+   * ### [ Deep Learning and Large Language Models for Knowledge Graphs (KDD)](https://genetasefa.github.io/dl4kg2024/) 
+   * ### [Federated Learning for Data Mining and Graph Analytics (KDD)](https://fedkdd.github.io/) 
+   * ### [Graph-based Methods for Natural Language Processing (ACL)](https://sites.google.com/view/textgraphs2024) 
+   * ### [Scene Graphs and Graph Representation Learning (CVPR)](https://sites.google.com/view/sg2rl/) 
+   * ### [Large Language Models in Graph Learning (TheWebConf)](https://advanced-recommender-systems.github.io/llm4graph/) 
+   * ### [Trustworthy Learning on Graphs (TheWebConf)](https://trustlogworkshop.github.io/) 
+   * ### [Graph Foundation Models (TheWebConf)](https://www.www24gfm.com/) 
+   * ### [Machine Learning on Graphs (WSDM)](https://mlog-workshop.github.io/)
+
+
 - ## 2023
    * ### [New Frontiers in Graph Learning (NeurIPS)](https://glfrontiers.github.io/) 
    * ### [Temporal Graph Learning Workshop (NeurIPS)](https://sites.google.com/view/tglworkshop-2023/home)  
-   * ### [Stanford Graph Learning Workshop](https://snap.stanford.edu/graphlearning-workshop-2023/) 
+   * ### [Stanford Graph Learning Workshop 2023](https://snap.stanford.edu/graphlearning-workshop-2023/)
    * ### [Scene Graph and Graph Representation Learning (ICCV)](https://sg2rl.github.io/)   
    * ### [Graph Learning Benchmarks (KDD)](https://graph-learning-benchmarks.github.io/glb2023)   
    * ### [Mining and Learning with Graphs (KDD)](http://www.mlgworkshop.org/2023/)  
